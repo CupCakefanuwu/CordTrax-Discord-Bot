@@ -9,7 +9,7 @@ client.commands = new Discord.Collection(); //Collection extends Map. A Map with
 client.queue = [];
 client.queueIndex;
 
-client.login(process.env.token); //Logs in to the application.
+client.login(NjI1OTk5NTAwMTg3NjY0Mzg2.XZSPmg.ZFWKN4_zxfcFkt8tHnqxqCwi6Mc); //Logs in to the application.
 
 //Online message
 client.on("ready", async ()=>{
